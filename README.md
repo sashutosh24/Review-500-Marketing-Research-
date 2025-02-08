@@ -1,4 +1,3 @@
-# Review-500-Marketing-Research-
 Content Analysis of Review Data
 Overview
 This project performs a comprehensive content analysis on a dataset of product reviews. The primary focus is to extract and organize key information about reviewers, review scores, helpfulness ratings, and review content to create a structured and interpretable output. This analysis is useful for gaining insights into user feedback and improving product or service offerings.
